@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BuyListApp</string>
+    <string name="name">Название</string>
+    <string name="description">Описание</string>
+    <string name="create">Создать</string>
+    <string name="enter_data">Введите данные</string>
+    <string name="something_went_wrong">Что-то пошло не так</string>
+</resources>
